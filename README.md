@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, mi nombre es Franco balsamo 
 
-<!--
-**franco-balsamo/franco-balsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Apasionado del mundo IT, busco desafíos que impulsen mi crecimiento. Me encanta aprender y aplicar las últimas tecnologías para mejorar mi desempeño laboral y desarrollo profesional.  </p>
+<p>Con habilidades analíticas y técnicas, destaco por crear soluciones innovadoras. Busco nuevos proyectos emocionantes que me permitan avanzar en mi desarrollo profesional.</p>
 
-Here are some ideas to get you started:
+Skills: / REACT /  NodeJS / SQL / POSTMAN / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Cómo contactarme: Les dejo mi email balsamote96@gmail.com 
+
+#### Portfolio 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-six-black-41.vercel.app/)
+
+#### Enlances
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/franco-balsamo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/https://www.linkedin.com/in/nahuel-cernadas-3b111a1b7//](https://www.linkedin.com/in/francobalsamo--developer-backend/)https://www.linkedin.com/in/francobalsamo--developer-backend/) 
